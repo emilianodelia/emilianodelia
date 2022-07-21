@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emiliano DElia and I was born in Caracas, Venezuela in 1998
+- 👋 Hi, I’m Emiliano and I was born in Caracas, Venezuela in 1998
 
 - 👀 Recently graduatued from my Master's Degree in Big Data & Business Analytics (IE Business School)
 
