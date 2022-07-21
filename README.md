@@ -4,7 +4,7 @@
 
 - 🌱 My favorite tool for data manipulation is the Pandas package available in Python
 
-- 🌱 I know my way around data visualization libraries such as Matplotlib and Seaborn
+- 🌱 I know my way around data visualization libraries such as Matplotlib and Seaborn and Business Inteligence software such as Tableau and PowerBI
 
 - 🌱 Familiar with predictive data analysis using scikit-learn and to other machine learning concepts such as supervised and unsupervised learning, putting together preprocessing steps for data preparation and integrating everything into a seamless train-predict-evaluate cycle using Pipelines
 
