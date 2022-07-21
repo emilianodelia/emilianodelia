@@ -8,7 +8,7 @@
 
 - 🌱 I'm familiar with the the Machine Learning Python package scikit-learn and to other machine learning concepts such as supervised and unsupervised learning, putting together preprocessing steps for data preparation and integraring everything into a  seamless train-predict-evaluate cycle using Pipelines
 
-- 🧠 I'm curreently looking for Data Analyst Roles all around the EU, in case my profile and projects catch your eye don't hesitate to contact me
+- 🧠 I'm currently looking for Data Analyst Roles all around the EU, in case my profile and projects catch your eye don't hesitate to contact me
 
 - 📫 How to reach me: emilianodeliacerchi@gmail.com
 
